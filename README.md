@@ -6,4 +6,4 @@ Entry for the Game Off 2018. The game is a survival horror bomberman game made w
 
 Releases:
 * [GitHub](https://adcimon.github.io/gameoff2018-release/)
-* [Itch.io](https://adcimon.itch.io/the-night-is-dark)
+* [Itch](https://adcimon.itch.io/the-night-is-dark)
